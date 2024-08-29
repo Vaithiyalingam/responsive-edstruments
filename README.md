@@ -1,4 +1,4 @@
-# Responsive React Application
+# Responsive Edstruments
 
 ## Objective
 
